@@ -1,0 +1,6 @@
+# Ignore any containers/logs/etc
+*.log
+*.tar
+node_modules/
+.DS_Store
+.env
